@@ -18,7 +18,7 @@ public class SampleFrame extends JFrame
 	private void setupFrame() {
 		this.setContentPane(appPanel);
 		this.setSize(1920, 1080);
-		this.setTitle("Minceraft 2");
+		this.setTitle("Minecraft 3");
 		this.setResizable(false);
 		this.setVisible(true);
 	}
